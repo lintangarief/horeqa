@@ -16,6 +16,8 @@ gem "less-rails"
 gem "twitter-bootstrap-rails"
 gem "rails_12factor"
 gem 'puma'
+gem 'shoppe'
+gem 'net-ssh'
 
 group :development, :test do
   gem 'byebug'
