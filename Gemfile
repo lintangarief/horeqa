@@ -15,6 +15,7 @@ gem "therubyracer"
 gem "less-rails"
 gem "twitter-bootstrap-rails"
 gem "rails_12factor"
+gem 'puma'
 
 group :development, :test do
   gem 'byebug'
